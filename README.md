@@ -1,3 +1,20 @@
+# FOR CSDP 601 Block chain project
+
+Used:
+- Ganache (Local ethereum development)
+- Solidity (Building smart contract)
+- React Native: Expo (For app development)
+
+This project demonstrate use of block chain with usage of uber.
+
+User can:
+- Request ride
+- Accept ride
+- Cancel ride
+- View rides
+
+All using block chain ethereum.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
